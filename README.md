@@ -36,7 +36,8 @@ The first step involves collecting a diverse dataset of plant species. Our custo
 The second step focuses on detecting and classifying plants using a **ResNet50** model. The model was trained on the prepared dataset to identify the 19 plant types.
 
 ### Key Metrics:
-- **Training Accuracy**: The model achieved a **94.49% test accuracy**.
+- **Training Accuracy**: The model achieved a **95.95% train accuracy**.
+
 
 
 ### Additional Feature:
